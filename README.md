@@ -21,16 +21,21 @@ CODE STRUCTURE:
 FAKE-NEWS-DETECTOR/
 │
 ├── app.py                    # Flask web server to run the app
+
 ├── model_training.py         # Script to train the model and save .pkl files
+
 ├── fake_or_real_news.csv     # Dataset 
+
 ├── requirements.txt          # List of required Python packages
+
 ├── templates/
 │   └── index.html            # HTML frontend for input and results
+
 ├── venv/                     # Python virtual environment
+
 ├── fake_news_model.pkl       # Saved ML model after training
+
 └── vectorizer.pkl            # Saved TfidfVectorizer used during training
-
-
 
 
 As part of Task 3 in my Data Science Internship, I developed a complete Fake News Detection system using Natural Language Processing (NLP) and Machine Learning, and deployed it as a web application using Flask. This project was especially rewarding because it involved building a real-world solution from scratch — starting from raw data to deploying a usable web app interface — all using Python scripts.
