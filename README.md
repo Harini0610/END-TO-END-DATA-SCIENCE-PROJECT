@@ -35,6 +35,13 @@ The web interface was created using Flask and a simple HTML template (index.html
 
 I applied CSS to ensure the form appears beautifully centered on the page with smooth spacing and padding. The form retains the user’s input after a prediction is made, enhancing user experience.
 
+* Model Building
+Libraries Used: pandas, sklearn, nltk, Flask, HTML/CSS
+Feature Extraction: TF-IDF (Term Frequency–Inverse Document Frequency)
+Model: Logistic Regression
+Evaluation: Accuracy, Confusion Matrix
+Deployment: Flask App
+
 This task taught me how to handle the full machine learning pipeline — not just training a model, but actually integrating it into an application that others can interact with. Working purely with .py files made the deployment feel very practical and production-like. I also learned how to handle form submissions using Flask routes, render dynamic content using Jinja2, and build a maintainable project folder structure with separate files for training, prediction, and templates.
 
 This kind of Fake News Detection model has broad applications today — from journalism and social media platforms to government fact-checking tools. The techniques used here can easily be extended to more advanced NLP models like LSTM, BERT, or integrated into larger content moderation systems.
