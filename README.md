@@ -50,3 +50,7 @@ In conclusion, Task 3 was a complete and deeply educational experience for me. I
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8940969-6fbf-4a10-966a-58dae026157b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/264df10d-adc7-4628-ba48-8ba89a45f125" />
+
