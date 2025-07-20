@@ -19,7 +19,7 @@ EDITOR USED: VISUAL STUDIOS
 CODE STRUCTURE:
 
 FAKE-NEWS-DETECTOR/
-│
+
 ├── app.py                    # Flask web server to run the app
 
 ├── model_training.py         # Script to train the model and save .pkl files
