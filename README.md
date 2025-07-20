@@ -51,7 +51,9 @@ The web interface was created using Flask and a simple HTML template (index.html
 I applied CSS to ensure the form appears beautifully centered on the page with smooth spacing and padding. The form retains the user’s input after a prediction is made, enhancing user experience.
 
 To Run the app:
+
 python app.py
+
 Once the app is running, open the browser and go to http://127.0.0.1:5000/, where the user interface will appear.
 
 This task taught me how to handle the full machine learning pipeline — not just training a model, but actually integrating it into an application that others can interact with. Working purely with .py files made the deployment feel very practical and production-like. I also learned how to handle form submissions using Flask routes, render dynamic content using Jinja2, and build a maintainable project folder structure with separate files for training, prediction, and templates.
